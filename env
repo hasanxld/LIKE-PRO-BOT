@@ -1,0 +1,10 @@
+BOT_TOKEN=8567569942:AAEV7poh628wNNCMCaJHoaejdCYRWHqQdts
+GITHUB_TOKEN=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
+GITHUB_REPO=hasanxld/ff-likeit
+GITHUB_BRANCH=main
+ADMIN_ID=7479756209
+LIKE_KEY=HASAN
+TOKEN_API=https://ff-jwt-gen-api.lovable.app/api/public/token
+LIKE_API=https://fflike.littleblog.online/like
+HEALTH_PORT=8080
+TOKEN_API_FALLBACK=3
